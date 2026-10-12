@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+data/*.csv
+data/*.db
+models/*.joblib
+models/*.keras
+models/*.sha256
+models/*.json
+.ipynb_checkpoints/

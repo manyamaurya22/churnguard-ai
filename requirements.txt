@@ -1,0 +1,13 @@
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+plotly>=5.20
+joblib>=1.3
+xgboost>=2.0
+shap>=0.45
+anthropic>=0.40
+python-dotenv>=1.0
+pytest>=8.0
+# Optional deep learning (large download; app works without it):
+# tensorflow>=2.16
